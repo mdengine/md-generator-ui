@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.spec.bak
+build/pyinstaller/
+build/md-generator-ui/
+dist/
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+.cursor/

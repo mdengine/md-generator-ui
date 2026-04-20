@@ -1,0 +1,8 @@
+/* Minimal spacing — native platform theme remains primary */
+QGroupBox {
+  font-weight: 600;
+}
+QPlainTextEdit#logPanel {
+  font-family: Consolas, "Cascadia Mono", "Ubuntu Mono", monospace;
+  font-size: 11pt;
+}

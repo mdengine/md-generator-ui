@@ -1,0 +1,3 @@
+# Runtime — pin mdengine for reproducible installs (PyPI).
+PySide6>=6.6.0,<7
+mdengine[pdf,word,ppt,xlsx,image-ocr,archive,url-full]==0.2.2

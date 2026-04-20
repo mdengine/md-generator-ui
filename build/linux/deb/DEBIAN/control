@@ -1,0 +1,8 @@
+Package: md-generator-ui
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: md-generator-ui <maintainer@example.com>
+Description: Desktop UI for mdengine (PDF/Office/images to Markdown)
+Depends: libc6 (>= 2.31)
